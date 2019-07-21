@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"malilab544d895": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

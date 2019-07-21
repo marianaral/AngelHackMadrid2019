@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "malila-dev-20190721105212-authRole",
+            "UnauthRoleArn": "arn:aws:iam::773000530477:role/malila-dev-20190721105212-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::773000530477:role/malila-dev-20190721105212-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "malila-dev-20190721105212-deployment",
+            "UnauthRoleName": "malila-dev-20190721105212-unauthRole",
+            "StackName": "malila-dev-20190721105212",
+            "StackId": "arn:aws:cloudformation:us-west-2:773000530477:stack/malila-dev-20190721105212/d54c2ec0-ab94-11e9-aafb-02c272fa5bd4"
+        },
+        "categories": {
+            "auth": {
+                "malilab544d895": {}
+            }
+        }
+    }
+}
